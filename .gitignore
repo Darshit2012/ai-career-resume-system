@@ -1,0 +1,81 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Streamlit
+.streamlit/
+*.streamlit.cache/
+.streamlit/cache/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Sample data (optional)
+# data/sample_resumes/*
+# data/job_descriptions/*
+
+# Exclude redundant local docs (kept locally, ignored on GitHub)
+COMPLETION_SUMMARY.md
+DIRECTORY_STRUCTURE.txt
+DOCUMENTATION_INDEX.md
+LAUNCH_CHECKLIST.md
+PROJECT_SUMMARY.md
+QUICK_REFERENCE.md
+SETUP_GUIDE.md
+VIVA_GUIDE.md
