@@ -1,7 +1,5 @@
 # 🚀 AI-Based Career & Resume Optimization System
 
-**A Final Year B.Tech Computer Engineering Project**
-
 ## 📌 Problem Statement
 
 In today's competitive job market, candidates struggle to optimize their resumes for Applicant Tracking Systems (ATS), and recruiters face challenges in efficiently screening large volumes of resumes. Additionally, job seekers lack real-time feedback on how well their resumes match specific job requirements, and both parties need intelligent tools to make better hiring decisions.
@@ -423,42 +421,8 @@ ATS_Score = (Structure × 0.4) + (Contact × 0.2) + (ActionVerbs × 0.2) + (Metr
 - Resume Optimization Best Practices
 - Interview Preparation Techniques
 
-## 👥 Authors & Contributors
-
-**Developed as a Final Year B.Tech Project**
-- Computer Engineering Department
-- [Your College Name]
-- 2024
-
-## 📞 Support & Contact
-
-For questions or issues:
-- Review the README sections above
-- Check API key configuration
-- Ensure all dependencies are installed
-- Verify Python version is 3.9+
-
-## 📄 License
-
-This project is created for educational purposes as part of the B.Tech Computer Engineering curriculum.
-
 ---
 
-## 🎓 Project Evaluation Criteria Met
-
-✅ **Problem Statement:** Clear identification of industry challenges
-✅ **System Design:** Well-structured, modular architecture
-✅ **Technology Stack:** Appropriate use of modern tools
-✅ **Functionality:** All proposed features implemented
-✅ **User Interface:** Clean, intuitive Streamlit interface
-✅ **Code Quality:** Well-documented, maintainable code
-✅ **Innovation:** AI/LLM integration for intelligent analysis
-✅ **Scalability:** Extensible design for future enhancements
-✅ **Documentation:** Comprehensive README and code comments
-✅ **Presentation:** Ready for viva and demo
-
----
-
-**Last Updated:** December 2024  
+**Last Updated:** December 2025  
 **Version:** 1.0.0  
 **Status:** Production Ready
